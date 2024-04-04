@@ -1,0 +1,19 @@
+{
+  "name": "m6ra66-to-do-cli-based-app",
+  "version": "1.0.0",
+  "description": "to do list CLI Based App Assignment",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Navaid",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.17"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
